@@ -86,27 +86,3 @@ npm run dev
 
 # 🙌 Author
 **Muhammad Safwan**
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
