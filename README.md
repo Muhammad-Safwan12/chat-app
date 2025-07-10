@@ -72,19 +72,15 @@ npm install
 ```
 
 ## ➕ Create a .env file inside client/
-
 ```
 VITE_SERVER_URL=http://localhost:5000
 ```
 
 ## 🔄 Run Frontend
-
 ```
 npm run dev
 ```
-
-#🌍 Deployment (Optional)
-
+##🌍 Deployment (Optional)
 - 🧑‍💻 Frontend: Netlify or Vercel
 - 🛠 Backend: Render or Railway
 
