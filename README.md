@@ -35,25 +35,6 @@ A full-stack real-time **chat application** built using the **MERN Stack** (Mong
 
 ---
 
-## 📁 Project Structure
-
-chat-app/
-├── client/ # React frontend (Vite)
-│ ├── src/
-│ ├── .env # React env vars (ignored)
-│ └── package.json
-│
-├── server/ # Node backend
-│ ├── server.js
-│ ├── .env # Secrets & config (ignored)
-│ └── package.json
-│
-├── .gitignore
-├── README.md
-└── package-lock.json
-
----
-
 ## 🧪 Local Setup Instructions
 
 > Follow these to run the app locally on your machine.
@@ -63,3 +44,25 @@ chat-app/
 ```bash
 git clone https://github.com/Muhammad-Safwan12/chat-app.git
 cd chat-app
+
+# 2️⃣ Setup Server
+```
+cd server
+npm install
+```
+
+## 🔄 Run Backend Server:
+```
+npm run dev
+```
+
+#3️⃣ Setup Client
+```
+cd ../client
+npm install
+```
+
+##🔄 Run Frontend App:
+```
+npm run dev
+```
