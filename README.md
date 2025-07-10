@@ -2,7 +2,6 @@
 
 A full-stack real-time **chat application** built using the **MERN Stack** (MongoDB, Express, React, Node.js) and **Socket.io** for bi-directional communication between users.
 
----
 
 ## 🚀 Features
 
@@ -13,8 +12,6 @@ A full-stack real-time **chat application** built using the **MERN Stack** (Mong
 - 📁 Clean folder structure (client & server)
 - ⚙️ Environment variables for secrets
 - ⚡ Instant messaging without refresh
-
----
 
 ## 🛠️ Tech Stack
 
@@ -30,28 +27,11 @@ A full-stack real-time **chat application** built using the **MERN Stack** (Mong
 - 🗄️ MongoDB (with Mongoose)
 - 📡 Socket.io for real-time events
 - 🌐 CORS, dotenv for environment config
-
----
+- 
 
 ## 📁 Project Structure
 
-chat-app/
-├── client/ # React frontend (Vite)
-│ ├── src/
-│ ├── .env # React env vars (ignored)
-│ └── package.json
-│
-├── server/ # Node backend
-│ ├── server.js
-│ ├── .env # Secrets & config (ignored)
-│ └── package.json
-│
-├── .gitignore
-├── README.md
-└── package-lock.json
-
-
----
+<pre> ## 📁 Project Structure ``` chat-app/ ├── client/ # React frontend (Vite) │ ├── src/ │ ├── .env # React env vars (ignored) │ └── package.json │ ├── server/ # Node backend │ ├── server.js │ ├── .env # Secrets & config (ignored) │ └── package.json │ ├── .gitignore ├── README.md └── package-lock.json ``` </pre>
 
 ## 🧪 Local Setup Instructions
 
@@ -109,8 +89,7 @@ npm run dev
 - 🛠 Backend: Render or Railway
 
 # 🙌 Author
-
-> Muhammad Safwan
+**Muhammad Safwan**
 
 
 
