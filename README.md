@@ -81,5 +81,5 @@ Host on:
 
 # 🙌 Author
 * Muhammad Safwan
-* 📎 GitHub
+* 📎 [GitHub](https://github.com/Muhammad-Safwan12)
 
